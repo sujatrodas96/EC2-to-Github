@@ -1,3 +1,7 @@
 Hello Text 1
+<<<<<<< HEAD
 Hello Text 2
 Hello Text 3
+Hello Text 5
+Hello Text 4
+
